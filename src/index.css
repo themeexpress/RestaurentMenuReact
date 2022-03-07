@@ -214,6 +214,10 @@ Menu
   margin-bottom: 0;
   padding-top: 1rem;
 }
+.details {
+  margin-top: 1rem;
+  border: 1px solid #c59d5f;
+}
 
 @media screen and (min-width: 768px) {
   .menu-item {
